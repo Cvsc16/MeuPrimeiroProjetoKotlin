@@ -1,7 +1,5 @@
 package aula_03_detalhes_tipos_dados
 
-import com.sun.org.apache.xalan.internal.lib.ExsltDatetime.year
-
 fun main() {
 
     val age: Int = 20
